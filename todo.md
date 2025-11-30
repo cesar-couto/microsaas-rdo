@@ -43,9 +43,9 @@
   - Extensões recomendadas: ESLint, Prettier, React Native Tools
 - [x] Instalar Expo CLI
   - Comando: `npm install -g expo-cli`
-- [ ] Configurar Git
-  - [ ] Criar repositório no GitHub
-  - [ ] Configurar `.gitignore` para React Native
+- [x] Configurar Git
+  - [x] Criar repositório no GitHub
+  - [x] Configurar `.gitignore` para React Native
 
 ### Contas e Serviços
 - [ ] Criar conta Firebase
